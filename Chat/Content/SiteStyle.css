@@ -1,8 +1,12 @@
 ﻿.bodyMargin {
-    margin-top: 15px;
+    margin: 0;
+    display: compact;
 }
 
 .red {
     color: red;
     font-weight: bold;
+}
+html {
+    background-color: aquamarine;
 }
